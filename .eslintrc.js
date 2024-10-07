@@ -50,7 +50,7 @@ module.exports = {
       'error',
       {
         cases: {
-          kebabCase: true, // personal style
+          camelCase: true, // personal style
           pascalCase: true,
         },
       },
